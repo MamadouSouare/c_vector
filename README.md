@@ -1,6 +1,4 @@
-# ft_vector
-
-**ft_vector** est une bibliothèque en C permettant de manipuler des tableaux dynamiques génériques.
+**c_vector** est une bibliothèque en C permettant de manipuler des tableaux dynamiques génériques.
 
 Elle permet de stocker des éléments de différents types, d'ajouter ou de supprimer des éléments, d'insérer des valeurs à un indice donné et de gérer automatiquement la capacité du tableau.
 
