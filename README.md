@@ -73,7 +73,7 @@ Les opérations internes utilisent cette information pour effectuer les copies m
 Clone le dépôt :
 
 ```bash
-git clone 
+git clone https://github.com/MamadouSouare/c_vector
 ```
 
 Inclure le fichier d'en-tête dans ton programme :
@@ -94,6 +94,7 @@ Adapte le nom du fichier source à l'organisation réelle du projet.
 
 ## API
 
+Une cheatsheet des fonctions sous forme de tableau est disponible sur [cheatSheet.md](cheatSheet.md).
 ### Initialisation
 
 #### `vector(T)`
